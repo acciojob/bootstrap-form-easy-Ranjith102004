@@ -1,2 +1,7 @@
-
-/* Your CSS Code here. */
+  .form-container {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 30px;
+      border: 1px solid #ddd;
+      border-radius: 10px;
+    }
